@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationProvider</string>
+    <string name="title_permission_required">Permission Required</string>
+    <string name="msg_location_permission_required">Please allow \"Location\" permission to collect precise geo-location.</string>
+    <string name="action_ok">OK</string>
+    <string name="msg_activity_no_location_subscription">Activity not subscribed to Location Updates!</string>
+    <string name="msg_location_detection_cancelled">Location detection cancelled!</string>
+</resources>

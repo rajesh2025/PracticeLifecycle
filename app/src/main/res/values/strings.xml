@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KycCongoB</string>
+    <string name="btn_forgot_password"><u>Forgot Password</u></string>
+    <string name="user_name">AUUID/Username</string>
+    <string name="lbl_login_via_password">Login via Password</string>
+    <string name="password">Password</string>
+    <string name="lbl_login_via_otp">Login via OTP</string>
+    <string name="otp">OTP</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_login">Login</string>
+
+    <!--<string-array name="permissions_array">-->
+        <!--<item>Manifest.permission.READ_PHONE_STATE</item>-->
+        <!--<item>Manifest.permission.CAMERA</item>-->
+        <!--<item>Manifest.permission.WRITE_EXTERNAL_STORAGE</item>-->
+        <!--<item>Manifest.permission.ACCESS_COARSE_LOCATION</item>-->
+        <!--<item>Manifest.permission.ACCESS_FINE_LOCATION</item>-->
+    <!--</string-array>-->
+</resources>
